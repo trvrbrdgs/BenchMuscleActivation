@@ -31,7 +31,7 @@ Max refers to the one rep maximum on a free weight bench press.
 During the eccentric (descent) phase of a bench press, at all grip widths: 
 * the pectoralis muscles are most active 
 * the deltoids are second most active
-* the triceps are least active
+* the triceps are least active 
 
 During the concentric (lifting) phase of the the bench press:
 * The deltoids are most active across all grip widths
@@ -41,7 +41,7 @@ During the concentric (lifting) phase of the the bench press:
 During a max effort:
 * The Pectoral muscles are most activated on the descent
 * The deltoids are second most activated on the descent
-* The triceps are least activated
+* The triceps are least activated during the descent
 * During the concentric phase all three muscle groups are equally activated
 
 ## Image 2
